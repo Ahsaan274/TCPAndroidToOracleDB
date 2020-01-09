@@ -20,8 +20,8 @@ public class MainActivity extends AppCompatActivity {
 
     private static final String DEFAULT_DRIVER = "oracle.jdbc.driver.OracleDriver";
     private static final String DEFAULT_URL = "jdbc:oracle:thin:@192.168.10.100:1521:odb";
-    private static final String DEFAULT_USERNAME = "tApp";
-    private static final String DEFAULT_PASSWORD = "101171";
+    private static final String DEFAULT_USERNAME = "tEhsan";
+    private static final String DEFAULT_PASSWORD = "786788";
     private Connection connection;
 
     Button btn ;
